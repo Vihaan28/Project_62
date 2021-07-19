@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    
+}
+
+img{
+    width: 200px;
+}
+
+#intro{
+  background-color: chartreuse; 
+    width: 100%;
+        height: 50%;
+    z-index: 9px;
+    text-align: center;
+}
+
+#intro h1{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#intro h2{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+#Gridview{
+    background: linear-gradient(#26e9f0 0%, #138d91 100%);
+    width: 100%;
+    height: 100%;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    z-index: 10px;
+    position: fixed;
+    width: 100%;
+    background-color:aliceblue;
+}
+
+.links{
+    display: inline;
+    padding-bottom: 9px;
+    padding-left: 9px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+#mycarousel{
+    background-color: firebrick;
+}
+
+#mycarousel img{
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#mycarousel h1{
+    color: white;
+}
+
+#mycarousel h2{
+    color: white;
+}
